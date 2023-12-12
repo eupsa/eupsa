@@ -8,7 +8,7 @@
 </div>
 
 <div align="center"> 
-<a href="https://www.instagram.com/__pedrosxz/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"</a>
+<a href="https://www.instagram.com/__pedrosxz "><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"</a>
   <a href = "mailto:pedruuu291@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=c71610" style="border-radius: 30px" target="_blank"> <target="_blank"></a>
  </div>
  </div>
