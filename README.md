@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pedrosxz.pedrosxz" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Araujo!;" />
@@ -18,7 +17,6 @@
     <h2 align="center">💡Main Skills💡</h2>
     <img src="https://skillicons.dev/icons?i=c,java,py,androidstudio,mysql"
     <br>
-    <hr>
     <br>
     <h2>🎓Student Moment🎓</h2>
     <img src="https://skillicons.dev/icons?i=html,css,js,php"
