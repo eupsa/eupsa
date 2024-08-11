@@ -17,13 +17,11 @@
     <h2 align="center">💡Main Skills💡</h2>
     <img src="https://skillicons.dev/icons?i=c,java,py,androidstudio,mysql"
     <br>
-    <br>
     <h2>🎓Student Moment🎓</h2>
     <img src="https://skillicons.dev/icons?i=html,css,js,php"
  </div>
  <br>   
 <br/>
-<hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
