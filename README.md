@@ -15,7 +15,7 @@
 </div>
 <div align="center">
     <h2 align="center">💡Main Skills💡</h2>
-    <img src="https://skillicons.dev/icons?i=android"
+    <img src="https://skillicons.dev/icons?i=androidstudio"
     <br>
     <h2>🎓Student Moment🎓</h2>
     <img src="https://skillicons.dev/icons?i=html,css,js,php"
