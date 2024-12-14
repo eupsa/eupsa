@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=c,java,py,androidstudio,mysql,php"
     <br>
     <h2>🎓Student Moment🎓</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php"
+    <img src="https://skillicons.dev/icons?i=js,php"
  </div>
  <br>   
 <br/>
