@@ -2,6 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
+
 Olá! Meu nome é Pedro Silva, sou desenvolvedor back-end de Salvador, Bahia. Tenho 17 anos, ensino médio completo e estou cursando Técnico em Desenvolvimento de Sistemas. Sou curioso, adoro inovar e explorar novas possibilidades no mundo da tecnologia. Confira mais sobre meu trabalho e projetos abaixo!
 
 <p align="left">
