@@ -1,18 +1,53 @@
-<h1 align="center">Olá 👋, sou Pedro Silva!</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
+# 👨🏻‍💻 Pedro
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psilvagg&label=Profile%20views&color=0e75b6&style=flat" alt="psilvagg" /> </p>
+**`Desenvolvedor Back-End`**
 
-<h3 align="left">Conecte-se comigo:</h3>
+Olá! Meu nome é Pedro, tenho 17 anos e sou de Salvador, Bahia. Com o ensino médio completo e cursando técnico em Desenvolvimento de Sistemas, sou movido pela vontade de inovar, testar possibilidades e pela curiosidade em aprender mais sobre tecnologia. Atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento de sistemas e projetos práticos.
+
+🔗 Confira meu portfólio: [pedro-dev.me](https://pedro-dev.me)  
+🌐 Projeto em destaque: [Minhas Vacinas](https://minhasvacinas.online)  
+📸 Instagram: [pedros.gg](https://www.instagram.com/pedros.gg)  
+💼 LinkedIn: [Pedro Silva](http://linkedin.com/in/pedro-silva-bba449315/)
+
+---
+
+### 🛠️ Habilidades e Ferramentas
+
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="React Native" title="React Native" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
 <p align="left">
-<a href="https://twitter.com/pssilvagg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pssilvagg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pedro-silva-bba449315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-silva-bba449315" height="30" width="40" /></a>
-<a href="https://instagram.com/pedros.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedros.gg" height="30" width="40" /></a>
+  <img 
+    alt="GitHub Stats" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=pedro-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    alt="GitHub Top Langs" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-dev&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6" 
+  />
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psilvagg&show_icons=true&locale=en&layout=compact" alt="psilvagg" /></p>
+### 🌟 Projeto em Destaque
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=psilvagg&show_icons=true&locale=en" alt="psilvagg" /></p>
+- [Minhas Vacinas](https://minhasvacinas.online): Sistema para gestão de vacinação, promovendo a conscientização e o acesso facilitado ao histórico de vacinas.
+
+---
+
+### 📈 Conecte-se comigo
+- [Portfólio](https://pedro-dev.me)  
+- [Instagram](https://www.instagram.com/pedros.gg)  
+- [LinkedIn](http://linkedin.com/in/pedro-silva-bba449315/)
