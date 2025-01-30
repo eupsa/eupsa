@@ -1,71 +1,56 @@
-# 👨‍💻 Pedro Silva
+<h2 align="left">Hi 👋! My name is Pedro.</h2>
 
-**`Desenvolvedor Back-End`**
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=psilvagg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psilvagg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Olá! Meu nome é Pedro Silva, sou desenvolvedor back-end de Salvador, Bahia. Tenho 17 anos, ensino médio completo e estou cursando Técnico em Desenvolvimento de Sistemas. Sou curioso, adoro inovar e explorar novas possibilidades no mundo da tecnologia. Confira mais sobre meu trabalho e projetos abaixo!
-
-<p align="left">
-    <a href="https://pedro-dev.me" target="_blank">
-        <img 
-            alt="Portfólio" 
-            title="Acesse meu portfólio" 
-            src="https://img.shields.io/badge/Portfólio-pedro--dev.me-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" 
-        />
-    </a>
-    <a href="https://instagram.com/pedros.gg" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Siga-me no Instagram" 
-            src="https://img.shields.io/badge/Instagram-pedros.gg-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-        />
-    </a>
-    <a href="http://linkedin.com/in/pedro-silva-bba449315/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Pedro%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-        />
-    </a>
-</p>
-
----
+###
 
 ### 🛠️ Habilidades e Ferramentas
 
-<img align="left" alt="Java" title="Java (POO)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Python" title="Python (iniciante)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="PHP" title="PHP (médio)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<br />
-<br />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+  <img width="12" />
+  <img align="left" alt="Java" title="Java (POO)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="left" alt="PHP" title="PHP (médio)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+</div>
 
 ### 📘 Estudando no momento
 
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="React Native" title="React Native (estudando)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<br />
-<br />
-
----
-
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="180px" 
-    src="https://github-readme-stats.vercel.app/api?username=psilvagg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="center" 
-    alt="Top Langs" 
-    height="180px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=psilvagg&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
-  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+
+<hr>
+
+<div align="left">
+<a href="https://www.instagram.com/pedros.gg" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+</a>
+<a href="mailto:pedruuu291@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+<a href="https://www.linkedin.com/in/pedro-silva-bba449315/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+</div>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/psilvagg/psilvagg/output/snake.svg" alt="Snake animation" />
+
+###
