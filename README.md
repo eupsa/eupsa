@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/psilvagg/psilvagg/output/snake.svg" alt="Snake animation" />
+
 
 ###
