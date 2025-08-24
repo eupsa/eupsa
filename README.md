@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pedro Araujo 🖐️
+## Olá! Eu sou Pedro Araujo 🖐️
 
 [![Portfólio](https://img.shields.io/website?label=www.pedroaraujo.dev&style=for-the-badge&url=https://www.pedroaraujo.dev)](https://www.pedroaraujo.dev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eupsa/)
@@ -6,8 +6,9 @@
 ## Skills
 
 <div style="display: inline_block">  
-  <h3>BackEnd⚙️</h3>
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <h3>Backnd ⚙️</h3>
+  <img align="center" alt="python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <h3>Cloud ☁️</h3>
