@@ -1,6 +1,6 @@
-## Olá! Eu sou o Pedro Silva 🖐️
+## Olá! Eu sou o Pedro Araujo 🖐️
 
-[![Portfólio](https://img.shields.io/website?label=www.pedro-dev.me&style=for-the-badge&url=https://www.pedro-dev.me)](https://www.pedro-dev.me)
+[![Portfólio](https://img.shields.io/website?label=www.pedroaraujo.dev&style=for-the-badge&url=https://www.pedroaraujo.dev)](https://www.pedroaraujo.dev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eupsa/)
 
 ## Skills
