@@ -8,7 +8,7 @@
 
 ### 🧭 Sobre Mim
 Sou **desenvolvedor backend** com foco em **arquitetura de sistemas** e **cloud**.  
-Atualmente aprimoro minhas habilidades em **automação com Docker**, **CI/CD** e **orquestração de serviços**.  
+Atualmente aprimoro minhas habilidades em **automação com Docker**, **servidores** e **APIs e JWT**.  
 Trabalho com ambientes **Linux**, **Nginx** e **Vercel**.
 
 ![Status](https://img.shields.io/badge/Status-Ativo-success?style=flat-square)
