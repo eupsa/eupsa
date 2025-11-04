@@ -29,10 +29,6 @@ Trabalho com ambientes **Linux**, **Nginx** e **Vercel**.
   <!-- Bancos de Dados -->
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-  <!-- Servidores -->
-  <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-0C7B14?style=for-the-badge&logo=nginx&logoColor=white"/>
 </div>
 
 ---
@@ -44,6 +40,9 @@ Trabalho com ambientes **Linux**, **Nginx** e **Vercel**.
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+    <!-- Servidores -->
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-0C7B14?style=for-the-badge&logo=nginx&logoColor=white"/>
 </div>
 
 ---
